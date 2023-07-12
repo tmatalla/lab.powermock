@@ -7,4 +7,8 @@ public class LegacyCode {
 	public String getAnotherMessage(){
 		return new String("Esto es una castaña");
 	}
+	private String getPrivateMessage(){
+		return new String("Esto es una castaña privada");
+	}
+	
 }

@@ -618,3 +618,4 @@ public class InvokingConstructorMethodTest {
 Note: PowerMock is not recommended in latest projects. Its not a good  coding practice.
 There is no need to test static methods, private methods. They get covered in public methods.
 
+"# lab.powermock" 
